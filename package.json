@@ -1,0 +1,11 @@
+{
+  "name": "sky-vanilla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "redeemService.js",
+  "scripts": {
+    "test": "jest redeemService.test.js"
+  },
+  "author": "Akintade Ajibade",
+  "license": "ISC"
+}
