@@ -7,5 +7,8 @@
     "test": "jest redeemService.test.js"
   },
   "author": "Akintade Ajibade",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
 }
